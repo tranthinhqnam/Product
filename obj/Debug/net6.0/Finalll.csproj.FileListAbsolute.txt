@@ -1,0 +1,15 @@
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.csproj.AssemblyReference.cache
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.AssemblyInfoInputs.cache
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.AssemblyInfo.cs
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C#\Finalll\bin\Debug\net6.0\Finalll.exe
+C:\WorkSpace\C#\Finalll\bin\Debug\net6.0\Finalll.deps.json
+C:\WorkSpace\C#\Finalll\bin\Debug\net6.0\Finalll.runtimeconfig.json
+C:\WorkSpace\C#\Finalll\bin\Debug\net6.0\Finalll.dll
+C:\WorkSpace\C#\Finalll\bin\Debug\net6.0\Finalll.pdb
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.dll
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\refint\Finalll.dll
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.pdb
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\Finalll.genruntimeconfig.cache
+C:\WorkSpace\C#\Finalll\obj\Debug\net6.0\ref\Finalll.dll
